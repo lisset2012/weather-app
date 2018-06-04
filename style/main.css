@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+}
+
+.cityTitle{
+    font-size: 24px;
+    
+}
+
+body *{
+    margin-bottom: 5vh;
+}
+
+icon {
+    max-height: 300px;
+    min-height: 300px;
+}
